@@ -2,4 +2,4 @@
 
 welcome to LgamerLIVE's official docs!
 
-[AntiRaid docs](https://test.io/)
+[AntiRaid docs](AntiRaid.md)
