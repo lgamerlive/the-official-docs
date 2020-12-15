@@ -5,7 +5,7 @@ add logs to AntiRaid!
 --------------------------------------------
 ⚠ logly disabled for an update ⚠
 --------------------------------------------
-logly by LgamerLIVE#4832
+        logly by LgamerLIVE#4832
 --------------------------------------------
 # how to setup logly:
 
