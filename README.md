@@ -2,4 +2,4 @@
 
 welcome to LgamerLIVE's official docs!
 
-[AntiRaid docs](AntiRaid.md)
+[AntiRaid docs](AntiRaid/AntiRaid.md)
