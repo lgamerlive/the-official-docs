@@ -9,3 +9,5 @@ AntiRaid is an discord bot that can find discord server raiders / hackers to mak
 [✨ self host (**__disabled__**)](https://github.com/lgamerlive/the-official-docs/blob/main/antiraid/selfhost.md#self-host)
 
 [🧩 plugins (AntiRaid plus only)](https://github.com/lgamerlive/the-official-docs/tree/main/antiraid/plugins)
+
+[🕹 dashboard](http://lgamervelabs-dashboard.glitch.me/login.html)
