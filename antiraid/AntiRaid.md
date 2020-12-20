@@ -1,6 +1,6 @@
 # AntiRaid
 
-AntiRaid is an discord bot that can find discord server raiders / hackers to make your server secure!
+AntiRaid is an discord bot that can find discord server raiders / hackers and ban discord server raiders / hackers to make your discord server secure!
 
 --------------------------------------------------------------------------------------------------------------------------------
 
